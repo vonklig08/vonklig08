@@ -1,16 +1,15 @@
-### Hi there 👋
+**BEM VINDO AO MEU  PERFIL 💔
+ 
+Meu nome  é ISADORA VON KLIG RODRIGUES
 
-<!--
-**vonklig08/vonklig08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_estou estudando na alura
+_estou me desenvolveno  na linguagem  javascript
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###voce pode entrar em contato comigo 📧
+
+@isadora.klig.rodrigues@escola.pr.gov.br
+
+ @isadoravonkligrodrigues
+ 
+![](https://media.tenor.com/yLo2oWj-IpoAAAAM/rihanna-money.gif)
